@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    width: 70%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid darkblue;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+label {
+    font-size: 16px;
+}
+
+input {
+    margin: 6px;
+}
+
+input[type="submit"] {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+}
